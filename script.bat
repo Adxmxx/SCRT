@@ -1,4 +1,3 @@
 @echo off
-echo coucou
-pause
-del "%~f0"
+del /F /Q "%USERPROFILE%\SCRT.zip"
+rmdir /S /Q "%USERPROFILE%\SCRT"
