@@ -1,3 +1,2 @@
 @echo off
-del /F /Q "%USERPROFILE%\SCRT.zip"
-rmdir /S /Q "%USERPROFILE%\SCRT"
+del /F /Q "%USERPROFILE%\script.bat"
